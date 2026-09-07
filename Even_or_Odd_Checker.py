@@ -1,4 +1,4 @@
-#1
+#Even or Odd Checker
 num = float(input("Enter a number: "))
 
 if num % 2 == 0:
